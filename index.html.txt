@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>AIcode - AI & 코딩 동아리</title>
+  <style>
+    body {
+      background-color: #0b0c2a; /* 어두운 남색 */
+      color: white;
+      font-family: 'Noto Sans', sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    .button {
+      display: inline-block;
+      margin: 10px;
+      padding: 15px 30px;
+      background-color: #66f2ff; /* 밝은 민트색 */
+      color: #0b0c2a;
+      font-weight: bold;
+      border-radius: 10px;
+      text-decoration: none;
+      font-size: 16px;
+    }
+    section {
+      margin-top: 50px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>AI와 함께 성장하는 우리, <span style="color: #a78bfa;">AIcode</span></h1>
+  <p>초보부터 고수까지, 모두가 함께 만드는 코딩+AI 프로젝트</p>
+
+  <a href="#about" class="button">동아리 소개</a>
+  <a href="#activities" class="button">활동 둘러보기</a>
+  <a href="#join" class="button">가입하기</a>
+
+  <section id="about">
+    <h2>우리는 AIcode입니다.</h2>
+    <p>AI와 코딩을 사랑하는 사람들이 모여, Python 기초부터 머신러닝, 딥러닝, AI 서비스 제작까지 함께 공부하고 작은 프로젝트를 완성합니다.<br>
+    코딩을 몰라도 괜찮아요! 함께 배우고 성장하는 것이 우리의 목표입니다.</p>
+  </section>
+
+  <section id="activities">
+    <h2>주요 활동</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li>🔹 Python 기초 스터디</li>
+      <li>🔹 AI 개념 워크숍</li>
+      <li>🔹 미니 프로젝트</li>
+      <li>🔹 해커톤 도전</li>
+      <li>🔹 AI 아트 체험</li>
+    </ul>
+  </section>
+
+  <section id="join">
+    <h2>가입 안내</h2>
+    <p>AI/코딩에 관심 있는 누구나 환영합니다!<br>
+    연중 상시 / 정기모집 (봄·가을학기)</p>
+    <p><strong>문의:</strong> aicode@university.ac.kr / 인스타 DM: @aicode_club</p>
+  </section>
+</body>
+</html>
